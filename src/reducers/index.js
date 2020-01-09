@@ -1,0 +1,1 @@
+export { reducerCar }  from './reducerCar';
